@@ -3,7 +3,15 @@ package br.com.fatec_zl.bissexto;
 import junit.framework.TestCase;
 
 /**
- * Unit test for simple App.
+ * Trabalho de conclusão de curso
+ *
+ * Utilizando analise de mutantes no processo de desenvolvimento 
+ * dirigido por teste para avaliar a qualidade do teste.
+ * 
+ * Eduardo Carvalho
+ * Yago Rodrigues
+ * Willian Ribeiro
+ *
  */
 public class AppTest extends TestCase {
 
